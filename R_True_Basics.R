@@ -77,5 +77,3 @@ rm(R)
 
 # List the elements in your workspace
 ls()
-
-#This completes the first part of the first module of Introduction to R
